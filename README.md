@@ -1,2 +1,4 @@
 # Pokedex!
-[image](https://user-images.githubusercontent.com/102429743/180619249-35e1c020-ef02-4976-926b-549f2773f6f0.png)
+
+![image](https://user-images.githubusercontent.com/102429743/180619272-48fd7087-14b7-47ce-aaea-4025094c9033.png)
+
